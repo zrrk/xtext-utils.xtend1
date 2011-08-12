@@ -1,1 +1,1 @@
-TODO
+This directory contains plugin projects
