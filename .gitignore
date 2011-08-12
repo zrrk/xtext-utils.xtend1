@@ -3,7 +3,7 @@ target
 bin
 .svn
 *.class
-*.plugin.xml_gen
 *.versionsBackup
 *.bak
 .metadata
+plugin.xml_gen
