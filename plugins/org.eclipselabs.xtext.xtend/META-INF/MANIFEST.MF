@@ -1,0 +1,38 @@
+Manifest-Version: 1.0
+Bundle-Vendor: Eclipse Modeling Project
+Bundle-ActivationPolicy: lazy
+Bundle-RequiredExecutionEnvironment: J2SE-1.5
+Bundle-Name: Xtext Xtend Extensions Plug-in
+Bundle-SymbolicName: org.eclipselabs.xtext.xtend
+Require-Bundle: org.eclipse.xtend;bundle-version="1.1.0",
+ org.eclipse.xtext;bundle-version="2.0.0",
+ org.eclipse.xtend.typesystem.emf;bundle-version="1.0.0",
+ org.eclipse.xtext.generator;bundle-version="2.0.0"
+Export-Package: org.eclipselabs.xtext.check,
+ org.eclipselabs.xtext.generator.validation,
+ org.eclipselabs.xtext.xtend
+Bundle-Version: 2.0.0.qualifier
+Bundle-ManifestVersion: 2
+
+Name: org/eclipse/xtext/xtend/InjectableResourceManager.class
+SHA1-Digest: R3dkMZygehPDqr/ux4ruRjaHQ6Y=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: KyT9FF7C7t86NoBoa2kZT3ZJBfw=
+
+Name: org/eclipse/xtext/xtend/InjectableExecutionContext.class
+SHA1-Digest: ZAIj7lMvtsYBkKpk7Tvk6cfp+DA=
+
+Name: org/eclipse/xtext/check/AbstractCheckValidator.class
+SHA1-Digest: zpvbJEJZK/top0x7qQlaU0ugBR8=
+
+Name: org/eclipse/xtext/check/AbstractCheckValidator$IssuesAdapter.cla
+ ss
+SHA1-Digest: XhqV5hJB5J9StvDlo8/iRXEMfYg=
+
+Name: about.html
+SHA1-Digest: m//+sZd+LYcO5OY/bjEiZVm0dk0=
+
+Name: org/eclipse/xtext/xtend/InjectableResourceManager$1.class
+SHA1-Digest: UvBryhZxhP3HUaR06M81TnAHTo8=
+
