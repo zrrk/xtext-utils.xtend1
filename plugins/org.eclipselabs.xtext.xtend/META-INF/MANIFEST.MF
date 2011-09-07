@@ -11,7 +11,11 @@ Require-Bundle: org.eclipse.xtend;bundle-version="1.1.0",
 Export-Package: org.eclipselabs.xtext.check,
  org.eclipselabs.xtext.generator.validation,
  org.eclipselabs.xtext.xtend
+<<<<<<< HEAD
 Bundle-Version: 2.1.0.qualifier
+=======
+Bundle-Version: 2.0.1
+>>>>>>> 75ccccead8ffa4546f500c511e7d291df541dffc
 Bundle-ManifestVersion: 2
 
 Name: org/eclipse/xtext/xtend/InjectableResourceManager.class
